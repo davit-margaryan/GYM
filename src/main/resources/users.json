@@ -1,0 +1,28 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Smith",
+    "address": "1359 Maryland Avenue",
+    "role": "trainee"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Smoke",
+    "address": "2564 Prospect Valley Road",
+    "role": "trainee"
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Smith",
+    "address": "1423 Fulton Street",
+    "role": "trainer",
+    "specialization": "box"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Morgan",
+    "address": "4931 Raccoon Run",
+    "role": "trainer",
+    "specialization": "cardio"
+  }
+]
